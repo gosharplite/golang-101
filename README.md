@@ -17,3 +17,5 @@
 8) [2015 On the move from C to Go in the toolchain](https://www.youtube.com/watch?v=cF1zJYkBW4A)
 
 9) [2015 Performance without the event loop](http://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
+
+10) [2015 The Legacy of Go](http://dave.cheney.net/2015/11/15/the-legacy-of-go)
