@@ -4,7 +4,7 @@
 
 2) [2012 Go at Google: Language Design in the Service of Software Engineering](http://talks.golang.org/2012/splash.article)
 
-3) [2012 Meet the Go Team](https://www.youtube.com/watch?v=sln-gJaURzk)
+3) [2012 Meet the Go Team](https://www.youtube.com/watch?v=sln-gJaURzk#t=24sec)
 
 4) [2012 Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
 
