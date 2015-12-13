@@ -1,10 +1,10 @@
 # Golang 101
 
-1) [2010 Rob Pike, "Public Static Void"](https://www.youtube.com/watch?v=5kj5ApnhPAE) [17sec](https://www.youtube.com/watch?v=5kj5ApnhPAE#t=17sec)
+1) [2010 Rob Pike, "Public Static Void"](https://www.youtube.com/watch?v=5kj5ApnhPAE)
 
 2) [2012 Go at Google: Language Design in the Service of Software Engineering](http://talks.golang.org/2012/splash.article)
 
-3) [2012 Meet the Go Team](https://www.youtube.com/watch?v=sln-gJaURzk) [24sec](https://www.youtube.com/watch?v=sln-gJaURzk#t=24sec)
+3) [2012 Meet the Go Team](https://www.youtube.com/watch?v=sln-gJaURzk)
 
 4) [2012 Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
 
